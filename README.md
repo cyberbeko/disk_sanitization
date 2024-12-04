@@ -21,7 +21,7 @@ In this project, the goal is to create a Bash script that securely deletes files
 
 - <b>**macOS**</b>
 
-<h2>Program walk-through:</h2>🦺
+<h2>Program walk-through🦺</h2>
 
 <p align="center">
 Launch the utility: <br/>
